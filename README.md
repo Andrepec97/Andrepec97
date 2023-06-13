@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Andrepec97&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=500)]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Andrepec97)]
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Andrepec97&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
